@@ -1,0 +1,23 @@
+[
+    {
+        "nim": "10111212",
+        "nama": "DADANG",
+        "jenis_keluhan": "PERKULIAHAN",
+        "isi_keluhan": "Kehadiran saya Alfa didosen X padahal saya mengikuti perkulihan",
+        "tanggal": "12/06/2022"
+    },
+    {
+        "nim": "10121139",
+        "nama": "ERI SUKMAWAN",
+        "jenis_keluhan": "FASILITAS SARANA DAN PRASARANA UNIKOM",
+        "isi_keluhan": "wifi di lab 7 sangat lambat",
+        "tanggal": "11/06/2022"
+    },
+    {
+        "nim": "10121120",
+        "nama": "DICKY",
+        "jenis_keluhan": "KEUANGAN",
+        "isi_keluhan": "UKT terlalu mahal",
+        "tanggal": "11/06/2022"
+    }
+]
